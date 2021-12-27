@@ -1,3 +1,7 @@
+<h2>Preview</h2>
+<p align="center">
+	<img src="https://raw.githubusercontent.com/danamira/customization/main/Windows%20Terminal/Preview.png"/>
+</p>
 <h2>Notes</h2>
 <ol>
     <li>Add GitBash command line as a profile to Windows Terminal. Use the small icon included in the current directory as the Icon for tabs. Default path for the command line executable file would probably be `C:\Program Files\Git\bin\bash.exe`.</li>
